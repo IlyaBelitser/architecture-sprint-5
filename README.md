@@ -1,7 +1,7 @@
 ### Ассистент в UI веб-приложении
 
 Файл с логами:  
-[rasa.log](../rasa/rasa.log)
+[rasa.log](rasa%2Frasa.log)
 
 Запуск Rasa:   
 ```
